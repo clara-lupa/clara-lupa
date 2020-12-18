@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Queermed (www.queermed.info)
 
-- 👨‍💻 All of my projects are available at [https://clara-lupa.github.io/profile/](https://clara-lupa.github.io/profile/)
+- 👨‍💻 All of my projects will soon be available at [https://clara-lupa.github.io/profile/](https://clara-lupa.github.io/profile/)
 
 - 📫 How to reach me **cwo@systemli.org**
 
