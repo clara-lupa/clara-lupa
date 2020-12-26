@@ -1,3 +1,6 @@
+<p align="center">
+<a href="https://www.codewars.com/users/clara-lupa" target="_blank" align="center"><img alt="codewars batch" src ="https://www.codewars.com/users/clara-lupa/badges/small"></a>
+</p>
 <h1 align="center">Hi 👋, I'm Clara</h1>
 <h3 align="center">web developer with a special focus on back-end, based in Berlin.</h3>
 
@@ -9,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/clara-wolff/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/clara-wolff/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14756256" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:14756256" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/clara-wolff/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/clara-wolff/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14756256" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:14756256" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
