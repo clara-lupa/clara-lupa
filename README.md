@@ -4,9 +4,6 @@
 <h1 align="center">Hi 👋, I'm Clara</h1>
 <h3 align="center">web developer with a special focus on back-end, based in Berlin.</h3>
 
-- 🔭 I’m currently working on Queermed (www.queermed.info)
-
-- 👨‍💻 All of my projects will soon be available at [https://clara-lupa.github.io/profile/](https://clara-lupa.github.io/profile/)
 
 - 📫 How to reach me **cwo@systemli.org**
 
